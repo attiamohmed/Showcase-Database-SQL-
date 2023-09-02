@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an Artists and Music Database designed and implemented to manage and organize information related to artists, music albums, songs, users, and playlists. It serves as the backend system for various music-related applications, enabling efficient data storage, retrieval, and management.
+This project is an small Spotify Database designed and implemented to manage and organize information related to artists, music albums, songs, users, and playlists. In this project, It serves as the backend system for MS Access, enabling efficient data storage, retrieval, and management.
 
 ## Features
 
@@ -59,7 +59,7 @@ The frontend of this project has been developed using Microsoft Access, providin
 
 ### Usage
 
-The Artists and Music Database Project, with its frontend developed in Microsoft Access, can be used in various music-related applications, including:
+The Spotify Database Project, with its frontend developed in Microsoft Access, can be used in various music-related applications, including:
 
 - Music Streaming Services: To organize and deliver a vast catalog of songs and albums to users.
 - Music Libraries: For cataloging and managing extensive collections of music.
